@@ -5,3 +5,4 @@
 - Changing to home directory
 - Long listing
 - Long listing with details
+- List only in digits
