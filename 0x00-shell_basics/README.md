@@ -10,3 +10,4 @@
 - Movement of betty
 - Betty is gone
 - Deleting directory
+- Navigation to previous directory
