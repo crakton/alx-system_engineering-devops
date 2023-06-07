@@ -8,3 +8,4 @@
 - List only in digits
 - New directory at /tmp/
 - Movement of betty
+- Betty is gone
