@@ -12,3 +12,4 @@
 - Deleting directory
 - Navigation to previous directory
 - Listing multiple directories content
+- Reading file type
