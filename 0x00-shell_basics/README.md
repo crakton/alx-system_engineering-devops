@@ -6,3 +6,4 @@
 - Long listing
 - Long listing with details
 - List only in digits
+- New directory at /tmp/
