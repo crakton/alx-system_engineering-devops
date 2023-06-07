@@ -16,3 +16,4 @@
 - Linking
 - Copying wild
 - Moving with sensitive case
+- Deleting specific suffixes files
