@@ -15,3 +15,4 @@
 - Reading file type
 - Linking
 - Copying wild
+- Moving with sensitive case
