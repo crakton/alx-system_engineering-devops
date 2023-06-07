@@ -14,3 +14,4 @@
 - Listing multiple directories content
 - Reading file type
 - Linking
+- Copying wild
