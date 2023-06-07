@@ -18,3 +18,4 @@
 - Moving with sensitive case
 - Deleting specific suffixes files
 - Directory Append creation
+- List seperated by comma
