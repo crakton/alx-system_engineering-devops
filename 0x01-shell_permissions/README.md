@@ -1,3 +1,4 @@
 # Shell Permissions
 
-- Change file owner
+- Change user
+- Print current user
