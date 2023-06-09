@@ -5,3 +5,4 @@
 - Groups
 - Change owner
 - Create empty file
+- Execute permit
