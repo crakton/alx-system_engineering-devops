@@ -10,3 +10,4 @@
 - All execution
 - 007
 - Informat
+- Copy permission
