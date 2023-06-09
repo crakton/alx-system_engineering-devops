@@ -11,3 +11,4 @@
 - 007
 - Informat
 - Copy permission
+- Folders permission
