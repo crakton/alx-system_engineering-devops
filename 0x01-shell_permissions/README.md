@@ -7,3 +7,4 @@
 - Create empty file
 - Execute permit
 - Multiple permits
+- All execution
