@@ -12,3 +12,4 @@
 - Informat
 - Copy permission
 - Folders permission
+- Creating dir with execution permission
