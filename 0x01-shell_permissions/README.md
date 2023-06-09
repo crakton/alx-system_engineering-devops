@@ -9,3 +9,4 @@
 - Multiple permits
 - All execution
 - 007
+- Informat
